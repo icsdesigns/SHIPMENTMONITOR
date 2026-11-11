@@ -14,8 +14,27 @@
    ],
    "tramos": [
     {
-     "desde": "08:30",
-     "hasta": "18:30",
+     "desde": "08:00",
+     "hasta": "18:00",
+     "cada": 60
+    }
+   ]
+  },
+  {
+   "id": "hmwbth6th",
+   "nombre": "Nueva configuración",
+   "activo": true,
+   "dias": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "tramos": [
+    {
+     "desde": "20:00",
+     "hasta": "20:30",
      "cada": 60
     }
    ]
@@ -34,5 +53,5 @@
   "telegram": true,
   "email": true
  },
- "actualizado": "2026-10-15T19:00:54.651Z"
+ "actualizado": "2026-11-11T07:49:01.779Z"
 }
