@@ -15,7 +15,7 @@
    "tramos": [
     {
      "desde": "08:00",
-     "hasta": "18:00",
+     "hasta": "17:00",
      "cada": 60
     }
    ]
@@ -33,7 +33,7 @@
    ],
    "tramos": [
     {
-     "desde": "20:00",
+     "desde": "19:00",
      "hasta": "20:30",
      "cada": 60
     }
@@ -53,5 +53,5 @@
   "telegram": true,
   "email": true
  },
- "actualizado": "2026-11-11T07:49:01.779Z"
+ "actualizado": "2026-11-24T07:21:20.650Z"
 }
